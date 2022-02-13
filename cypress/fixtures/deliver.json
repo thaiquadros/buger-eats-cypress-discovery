@@ -1,0 +1,51 @@
+{
+    "signup": {
+        "name": "Luxa Mano",
+        "cpf": "00000078911",
+        "email": "mano@hotmail.com",
+        "whatsapp": "11987965423",
+        "address": {
+            "postalcode": "20771001",
+            "street": "Avenida Dom Hélder Câmara",
+            "number": "3565",
+            "details": "601",
+            "district": "Cachambi",
+            "city_state": "Rio de Janeiro/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv" :{
+        "name": "Gloria Gaynor",
+        "cpf": "x00000789AA",
+        "email": "gloria@hotmail.com",
+        "whatsapp": "2147813568",
+        "address": {
+            "postalcode": "20771001",
+            "street": "Avenida Dom Hélder Câmara",
+            "number": "3565",
+            "details": "601",
+            "district": "Cachambi",
+            "city_state": "Rio de Janeiro/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+
+    },
+    "email_inv": {
+        "name": "Luxa Mano",
+        "cpf": "00000078911",
+        "email": "mano.com.br",
+        "whatsapp": "11987965423",
+        "address": {
+            "postalcode": "20771001",
+            "street": "Avenida Dom Hélder Câmara",
+            "number": "3565",
+            "details": "601",
+            "district": "Cachambi",
+            "city_state": "Rio de Janeiro/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
